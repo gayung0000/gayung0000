@@ -36,9 +36,9 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gayung0000&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayung0000&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -48,7 +48,7 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gayung0000&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -58,7 +58,7 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayung0000&theme=tokyo-night"/>
 
 </p>
 
@@ -68,7 +68,7 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gayung0000&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -78,7 +78,7 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/gayung0000/gayung0000/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -98,11 +98,11 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/gayung0000">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/gayung0000">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -116,7 +116,7 @@ Backend Developer • Laravel Enthusiast • Lifelong Learner
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gayung0000&style=for-the-badge"/>
 
 </p>
 
